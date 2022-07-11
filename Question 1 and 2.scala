@@ -1,5 +1,5 @@
 //Question 1 and 2s
-object variables extends App{
+object variables{
     def main(args: Array[String])={
         val i, j, k = 2;
         val m, n = 5
